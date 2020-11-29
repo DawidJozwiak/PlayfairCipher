@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pl.polsl.dawid.jozwiak.playfair.playfaircipherlab.test","l":"CipherException"},{"p":"pl.polsl.dawid.jozwiak.playfair.playfaircipherlab.test","l":"CipherTest"}]
